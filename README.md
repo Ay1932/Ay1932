@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Ay1932
-- 👀 I’m interested in ...
+- 👀 I’m interested in to do amazing projects.
 - 🌱 I’m currently learning Python,Java and Machine learning.
-- 💞️ I’m looking to collab
 - 📫 How to reach me pandavayush004@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
 <!---
